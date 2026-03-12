@@ -2,7 +2,7 @@
 
 A lightweight Windows floating window that monitors your active [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions in real time.
 
-![screenshot](screenshot.png)<img width="948" height="558" alt="image" src="https://github.com/user-attachments/assets/99d78286-5934-4256-a57a-36cd9e13c231" />
+<img width="948" height="558" alt="image" src="https://github.com/user-attachments/assets/99d78286-5934-4256-a57a-36cd9e13c231" />
 
 <!-- Replace with an actual screenshot -->
 
